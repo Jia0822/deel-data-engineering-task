@@ -1,3 +1,5 @@
+# Janesky's notebook
+this is the repository using for learning how to be a data engineer.
 ## Data Engineering Take-Home Task
 
 ### Welcome
